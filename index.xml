@@ -110,6 +110,22 @@
     </item>
     
     <item>
+      <title>direpack: A Python 3 package for state-of-the-art statistical dimension reduction methods</title>
+      <link>https://emmanueljordy.github.io/publication/menvouta-2020-direpack/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emmanueljordy.github.io/publication/menvouta-2020-direpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse dimension reduction based on energy and ball statistics</title>
+      <link>https://emmanueljordy.github.io/publication/menvouta-2020-sparse/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emmanueljordy.github.io/publication/menvouta-2020-sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>https://emmanueljordy.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
